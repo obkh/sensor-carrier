@@ -1,0 +1,5 @@
+Reference,Quantity,Part,Value,Notes
+J1,1,PinHeader_1x04_P2.54mm_Vertical,,ESP32 GPIO and 3.3 V cable
+J2,1,PinHeader_1x04_P2.54mm_Vertical,,SHT31 breakout connection
+R1,1,Resistor_SMD:R_0805_2012Metric,4.7k,SDA pull-up to 3.3 V
+R2,1,Resistor_SMD:R_0805_2012Metric,4.7k,SCL pull-up to 3.3 V

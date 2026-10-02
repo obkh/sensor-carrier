@@ -1,0 +1,4 @@
+build/
+esp32_demo/build/
+hardware/*.kicad_prl
+hardware/*.lck
